@@ -1,4 +1,4 @@
-FROM REDHAT/UBI9
+FROM redhat/ubi9:latest
 
 RUN yum install python3 -y
 
